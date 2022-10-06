@@ -43,7 +43,7 @@ public class GameManager : MonoBehaviour
     public GameObject popUpUI;
     public Slider slider;
 
-    float gameTime = 15;
+    float gameTime = 240;
     string sMinutes, sSeconds;
 
     bool start = false;
